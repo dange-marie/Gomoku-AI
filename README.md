@@ -33,8 +33,6 @@
 
 ## 📁 Clean Project Structure
 
-Voici une **structure recommandée** de ton dépôt, organisée par responsabilité :
-
 ```
 gomoku-ai/
 ├── ai/
@@ -59,9 +57,6 @@ gomoku-ai/
 ├── README.md
 └── .gitignore
 ```
-
-> ✅ Tu peux aussi renommer certains fichiers si tu veux coller à cette architecture (`main.py` → `ui/main.py`, etc.).
-
 ---
 
 ## 🛠️ Installation
