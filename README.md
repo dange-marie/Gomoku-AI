@@ -111,5 +111,9 @@ MIT License — Free to use, modify, and distribute.
 ## 👤 Author
 
 **Dange-Marie**
-🧠 AI & Game Dev Enthusiast
+🧠 AI/ML developper
 🔗 [GitHub](https://github.com/yourusername)
+
+**Omer DEDO**
+🧠 Cybersecurity Analyst
+🔗 [GitHub](https://github.com/200omer)
