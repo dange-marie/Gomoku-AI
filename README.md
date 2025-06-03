@@ -116,4 +116,4 @@ MIT License — Free to use, modify, and distribute.
 
 **Omer DEDO**
 🔐 Cybersecurity Analyst
-🔗 [GitHub](https://github.com/200omer)
+🔗 [GitHub](https://github.com/Omer-Josue)
